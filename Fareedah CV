@@ -1,0 +1,81 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>MY CV</title>
+
+</head>
+
+<body bgcolor="purple"
+   <header>
+<h1>FAREEDAH ISHAQ</h1>
+<P> 
+    <i>A higly motivated and practical human. <br> Open-minded and always willing to learn. <br> Passionate about whatever I do.</i>
+</P>
+</header>
+
+<hr>
+
+<div>
+<img src="img/fareedah.jpg" alt="FAREEDAH" width="400" height="300">
+</div>
+<hr>
+<div>
+       <b>No 40, Shehu Maiyashi GRA,<br> Mando,
+        Kaduna, Nigeria <br> 
+      +23461514246 <br>
+       fareedah779@gmail.com</b> 
+
+</div>
+
+<hr>
+
+<div>
+     <h3>SKILLS</h3>
+     <ol>
+         <li>Computer Literate; Ms Word, Ms Excel, Ms Power Point</li>
+         <li>Good Communication Skill</li>
+         <li>Amateur Writer</li>
+         <li>Photo and Video Editing</li>
+         <li>Time Management</li>
+         <li>Active Team Work</li>
+        </ol>
+</div>
+
+<hr>
+<h3>EDUCATION</h3>
+<P> <ol>
+            <li> <b>2015,</b>                 <i>Ahmadu Bello University, BscEd Biology (in view)</i> </li> 
+            <li> <b>2013-2014,</b>            <i>All Saints International School, Kaduna</i> </li> 
+            <li><b>2002-2013,</b>             <i>Mameena Memorial Schools, Kaduna</i> </li>
+</ol> 
+
+<div>
+<h3>EXPERIENCE</h3>
+<P> <ol>
+     <li> <b>July,2018</b>      <i>Teaching Practice, Maimuna Gwarzo Secondary School, Kaduna</i> </li> 
+     <li> <b>July, 2018</b>     <i>Click on Kaduna freelance workshop</i> </li> 
+    </ol>
+</P>
+</div>
+
+<div>
+<h3>INTERESTS</h3>
+<p> <ol>
+    <li>Photography</li>
+    <li>Programming</li>
+    <li>Public Speaking</li>
+    <li>Volunteering</li>
+</ol>
+</p>
+</div>
+
+
+<div>
+    <h3>REFERENCE</h3>
+Available on Request
+</div>
+</P>
+</body>
+</html>
